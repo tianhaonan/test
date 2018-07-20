@@ -23,7 +23,7 @@ public class Example {
 
     public void change(String str, char ch[]) {
 
-        str = "test ok";
+        str = "test oksdasd";
 
         ch[0] = 'g';
 
