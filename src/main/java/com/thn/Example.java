@@ -13,7 +13,7 @@ public class Example {
 
         Example ex = new Example();
 
-        ex.change(ex.str, ex.ch);
+        ex.change(ex.str, ex.ch) ;
 
         System.out.print(ex.str + " and ");
 
