@@ -8,4 +8,8 @@ package com.thn.controller;/**
  * @create: 2018-07-20 15:38
  **/
 public class my {
+    public static void main(String[] args) {
+
+    }
 }
+
